@@ -1,0 +1,12 @@
+[package]
+name = "lc3-machine"
+version = "0.1.0"
+authors = ["yj <yujian0231@163.com>"]
+edition = "2018"
+
+[dependencies]
+num-derive = "0.2.3"
+num-traits = "0.2"
+num = "0.2.0"
+termios = "0.3.1"
+libc = "0.2.45"
